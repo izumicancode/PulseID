@@ -1,4 +1,4 @@
-d# PulseID
+# PulseID
 
 **A universal digital medical ID.** One record per person, built around their
 National ID — instantly readable by any doctor with a login, and instantly
